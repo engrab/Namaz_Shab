@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/urdu"
+            android:textSize="20sp"
+            android:text="پہلی آٹھ (آٹھ) رکعتیں معمول کے مطابق (صبح کی نماز کی طرح) دو دو رکعتوں کے جوڑے میں نوافل لیل کی نیت کے ساتھ پڑھیں۔\n
+
+اگلی 2 (دو) رکعتیں (صبح کی نماز کی طرح) صلوٰۃ الشفاء کی نیت کے ساتھ پڑھی جاتی ہیں۔\n
+
+بقیہ 1 (ایک) رکعت صلوٰۃ وتر کی نیت کے ساتھ (نیچے کی طرح) پڑھی جاتی ہے۔ مندرجہ ذیل .." />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/urdu"
+            android:textSize="30sp"
+            android:text="﴿ایک بار﴾"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quran"
+            android:text="  بِسْمِ اللَّـهِ الرَّ‌حْمَـٰنِ الرَّ‌حِيمِ ﴿۱﴾
+    الحَمدُ لِلَّهِ رَبِّ العالَمينَ ﴿۲﴾
+    الرَّحمٰنِ الرَّحيمِ ﴿۳﴾
+    مالِكِ يَومِ الدّينِ ﴿۴﴾
+    إِيّاكَ نَعبُدُ وَإِيّاكَ نَستَعينُ ﴿۵﴾
+    اهدِنَا الصِّراطَ المُستَقيمَ ﴿۶﴾
+    صِرَ‌اطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ‌ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ ﴿٧﴾"
+            android:textSize="30sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/urdu"
+            android:textSize="30sp"
+            android:text="﴿تین بار﴾"/>
+ <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quran"
+            android:text="  بِسْمِ اللَّـهِ الرَّ‌حْمَـٰنِ الرَّ‌حِيمِ ﴿۱﴾
+    قُلْ هُوَ ٱللَّهُ أَحَدٌ ﴿۲﴾
+    ٱللَّهُ ٱلصَّمَدُِ ﴿۳﴾
+    لَمْ يَلِدْ وَلَمْ يُولَدْ ﴿۴﴾
+    وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ ﴿۵﴾
+    "
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/urdu"
+            android:textSize="30sp"
+            android:text="﴿ایک بار﴾"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quran"
+            android:text="  بِسْمِ اللَّـهِ الرَّ‌حْمَـٰنِ الرَّ‌حِيمِ ﴿۱﴾
+    قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ  ﴿۲﴾
+    مِن شَرِّ مَا خَلَقَِ ﴿۳﴾
+    وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ ﴿۴﴾
+   وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ ﴿۵﴾
+    وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدََ ﴿۶﴾
+  "
+            android:textSize="30sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/urdu"
+            android:textSize="30sp"
+            android:text="﴿ایک بار﴾"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quran"
+            android:text="  بِسْمِ اللَّـهِ الرَّ‌حْمَـٰنِ الرَّ‌حِيمِ ﴿۱﴾
+    قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِِ  ﴿۲﴾
+    مَلِكِ ٱلنَّاسِ ﴿۳﴾
+    إِلَـٰهِ ٱلنَّاسَِ ﴿۴﴾
+   مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِِ ﴿۵﴾
+    ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسََِ ﴿۶﴾
+    مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ ﴿٧﴾
+  "
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/urdu"
+            android:textSize="30sp"
+            android:text="﴿قنوت﴾"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/quran"
+            android:text="  لآ اِلَهَ اِلاَّ اللّهُ الْحَلِيْمُ الْكَرِيْمُ ﴿ ﴾
+   لآ اِلَهَ اِلاَّ اللّهُ الْعَلِيُّ الْعَظِيْمُ ﴿ ﴾
+   سُبْحَانَ اللّهِ رَبِّ السَّمَاوَاتِ السَّبْعِ ﴿ ﴾
+   وَ رَبِّ الاَرْضِيْنَ السَّبْعُِ ﴿ ﴾
+   وَ مَا فِيْهِنَّ وَ مَا بَيْنَهُنَّ وَ رَبُّ الْعَرْشِ الْعَظِيْمُِ ﴿ ﴾
+   وَ الْحَمْدُ لِلّهِ رَبِّ الْعَالَمِيْنَ ﴿ ﴾
+  "
+            android:textSize="30sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/urdu"
+            android:textSize="20sp"
+            android:text="پھر ان چالیس [40] لوگوں کی مغفرت کی دعا کریں جو یا تو مر چکے ہیں یا زندہ ہیں:"/>
+
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
